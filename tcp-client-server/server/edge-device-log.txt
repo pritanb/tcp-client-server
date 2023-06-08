@@ -1,0 +1,2 @@
+1; 11 November 2022 05:23:34; supersmartwatch; 127.0.0.1; 8053
+2; 11 November 2022 05:23:45; uperwristband; 127.0.0.1; 8054
