@@ -1,11 +1,9 @@
 """
-    Sample code for Multi-Threaded Server
     Python 3
     Usage: python3 TCPserver3.py localhost 12000
     coding: utf-8
     
     Author: Pritan Barai 
-    - Code referenced from RUI LI assignment demos
 """
 import os
 from socket import *
